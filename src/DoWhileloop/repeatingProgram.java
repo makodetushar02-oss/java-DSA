@@ -1,4 +1,4 @@
-package loops.DoWhileloop;
+package DoWhileloop;
 import java.util.Scanner;
 
 public class repeatingProgram {

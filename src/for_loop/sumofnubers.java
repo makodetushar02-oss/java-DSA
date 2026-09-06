@@ -1,4 +1,4 @@
-
+package for_loop;
 import java.util.Scanner;
 
 public class sumofnubers {

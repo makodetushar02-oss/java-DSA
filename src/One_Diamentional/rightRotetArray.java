@@ -1,3 +1,4 @@
+package One_Diamentional;
 
 import java.util.Arrays;
 import java.util.Scanner;

@@ -1,4 +1,4 @@
-
+package One_Diamentional;
 import java.util.*;
 
 public class fi {

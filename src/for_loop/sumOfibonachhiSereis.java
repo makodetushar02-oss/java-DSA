@@ -1,4 +1,4 @@
-
+package for_loop;
 import java.util.*;
 public class sumOfibonachhiSereis {
         public static void main(String[] args) {

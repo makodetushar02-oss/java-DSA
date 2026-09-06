@@ -1,4 +1,4 @@
-
+package list.arraylist;
 
 import java.util.ArrayList;
 
@@ -17,7 +17,9 @@ public class ArrList {
         list.add(4,50);
         System.out.println(list);
         list.remove(2 );
+        list.removeLast();
         System.out.println(list);
+        list.addLast(23);
         list.remove(Integer.valueOf(20));
         System.out.println(list);
         System.out.println(list.contains(12));

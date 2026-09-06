@@ -1,4 +1,4 @@
-
+package One_Diamentional;
 import java.util.Scanner;
 
 public class SumOfAbsuluteDifference {

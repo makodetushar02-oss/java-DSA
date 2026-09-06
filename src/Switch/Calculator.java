@@ -1,4 +1,4 @@
-
+package Switch;
 import java.lang.classfile.instruction.SwitchCase;
 import java.util.Scanner;
 
