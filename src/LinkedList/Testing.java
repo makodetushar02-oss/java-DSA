@@ -10,7 +10,7 @@ public class Testing {
         System.out.println(list);
         list.addFirst(23);
         System.out.println(list);
-        list.remove(2);
+        list.remove(3);
         System.out.println(list);
         list.removeFirst();
         System.out.println(list);
